@@ -1,5 +1,0 @@
-['Bosnia-Herzegovina', 'Burma', 'Congo Democratic Republic', 'Congo Republic', 'Serbia and Montenegro1', 'Soviet Union (former)', 'All other countries', "China People's Republic", 'Serbia and Montenegro', "Cote d'Ivoire", 'Korea North', 'All Other Countries', 'Unknown', 'Unknown1', 'Unknown 1', 'All other countries 1', 'Unknown 2', 'All other countries1', 'Unknown2']
-
-['Bosnia-Herzegovina', 'Burma', 'Congo Democratic Republic', 'Congo Republic', 'Serbia and Montenegro1', 'Soviet Union (former)', 'All other countries', "China People's Republic", 'Serbia and Montenegro', "Cote d'Ivoire", 'Korea North', 'All Other Countries', 'Unknown', 'Unknown1', 'Unknown 1', 'All other countries 1', 'Unknown 2', 'All other countries1', 'Unknown2']
-
-
